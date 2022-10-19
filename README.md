@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaiyashvictus
 - 👀 I’m interested in .Ios App Dvlopment.
 - 🌱 I’m currently learning .How to code properly..
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on App Development (Specially ios app devlopment)...
 - 📫 YOu can Reach out to me on jaiyashvictus@gmail.com..
 
 <!---
